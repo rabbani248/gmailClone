@@ -53,13 +53,15 @@ body{
     width: 50%;
     display: flex;
     flex-direction: column;
-    margin-left:0px;
+    margin-left:40px;
+    flex:1;
     
     
     
     
-    /* padding: 1%;
-    margin:1%; */
+    
+    padding: 1%;
+    margin:1%;
 }
 footer{
     display:flex;
